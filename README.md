@@ -3,7 +3,7 @@
 **Full-Stack & AI Software Engineer** based in **London, UK** — building production web platforms, local-first desktop apps, and retrieval-augmented LLM systems.
 
 <a href="https://devma.uk"><img src="assets/portfolio.svg" alt="Portfolio: devma.uk" /></a>&nbsp;
-<a href="https://mascotlabs.uk"><img src="assets/mascotlabs.svg" alt="Studio: mascotlabs.uk" /></a>&nbsp;
+<a href="https://mascotlabs.uk"><img src="assets/mascotlabs.svg" alt="Founder: mascotlabs.uk" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/dev-mohamed-ali/"><img src="assets/linkedin.svg" alt="LinkedIn: dev-mohamed-ali" /></a>
 
 ---

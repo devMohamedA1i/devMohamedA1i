@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="176" height="28" role="img" aria-label="Studio: mascotlabs.uk">
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="28" role="img" aria-label="Founder: mascotlabs.uk">
   <defs>
-    <clipPath id="r"><rect width="176" height="28" rx="7" ry="7"/></clipPath>
+    <clipPath id="r"><rect width="184" height="28" rx="7" ry="7"/></clipPath>
     <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#28457D"/>
       <stop offset="100%" stop-color="#1E3561"/>
     </linearGradient>
   </defs>
   <g clip-path="url(#r)">
-    <rect width="62" height="28" fill="#162749"/>
-    <rect x="62" width="114" height="28" fill="url(#g)"/>
+    <rect width="70" height="28" fill="#162749"/>
+    <rect x="70" width="114" height="28" fill="url(#g)"/>
   </g>
-  <text x="31" y="18" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" text-anchor="middle">Studio</text>
-  <text x="119" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" text-anchor="middle">mascotlabs.uk</text>
+  <text x="35" y="18" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" text-anchor="middle">Founder</text>
+  <text x="127" y="18" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" text-anchor="middle">mascotlabs.uk</text>
 </svg>
