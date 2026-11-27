@@ -3,8 +3,8 @@
 **Full-Stack & AI Software Engineer** based in **London, UK** — building production web platforms, local-first desktop apps, and retrieval-augmented LLM systems.
 
 <a href="https://devma.uk"><img src="assets/portfolio.svg" alt="Portfolio: devma.uk" /></a>&nbsp;
-<a href="https://mascotlabs.uk"><img src="assets/mascotlabs.svg?v=4" alt="Founder: mascotlabs.uk" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/dev-mohamed-ali/"><img src="assets/linkedin.svg?v=4" alt="LinkedIn: dev-mohamed-ali" /></a>
+<a href="https://mascotlabs.uk"><img src="assets/mascotlabs.svg?v=5" alt="Founder: mascotlabs.uk" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/dev-mohamed-ali/"><img src="assets/linkedin.svg?v=5" alt="LinkedIn: dev-mohamed-ali" /></a>
 
 ---
 
@@ -32,14 +32,14 @@
       <td><b>Mascot Labs — Digital Tools</b></td>
       <td>Commercial business analytics &amp; invoicing toolkit (Smart Business Dashboard &amp; Control Kit) built for trades, freelancers, and small businesses.</td>
       <td align="center">
-        <a href="https://mascotlabs.uk/digital-tools.html"><img src="assets/live.svg?v=4" alt="Live Product" /></a>
+        <a href="https://mascotlabs.uk/digital-tools.html"><img src="assets/live.svg?v=5" alt="Live Product" /></a>
       </td>
     </tr>
     <tr>
       <td><b>Quran Reel Generator</b></td>
       <td>Open-source, 100% local desktop (macOS &amp; Windows) and mobile PWA for generating synchronized 9:16 Quran reels in English &amp; Arabic.</td>
       <td align="center">
-        <a href="https://devmohameda1i.github.io/Quran-Reel-Generator/"><img src="assets/live.svg?v=4" alt="Live App" /></a><br/>
+        <a href="https://devmohameda1i.github.io/Quran-Reel-Generator/"><img src="assets/live.svg?v=5" alt="Live App" /></a><br/>
         <a href="https://github.com/devMohamedA1i/Quran-Reel-Generator"><img src="assets/code.svg" alt="Code" /></a>
       </td>
     </tr>
@@ -68,7 +68,7 @@
       <td><b>Restaurant Web App</b></td>
       <td>Responsive fine-dining restaurant web experience built with React.</td>
       <td align="center">
-        <a href="https://react-restaurant-project.vercel.app/"><img src="assets/live.svg?v=4" alt="Live Demo" /></a><br/>
+        <a href="https://react-restaurant-project.vercel.app/"><img src="assets/live.svg?v=5" alt="Live Demo" /></a><br/>
         <a href="https://github.com/devMohamedA1i/React-Restaurant-Project"><img src="assets/code.svg" alt="Code" /></a>
       </td>
     </tr>
