@@ -31,7 +31,7 @@
       <td><b>Quran Reel Generator</b></td>
       <td>Open-source, 100% local desktop (macOS &amp; Windows) and mobile PWA for generating synchronized 9:16 Quran reels in English &amp; Arabic.</td>
       <td align="center">
-        <a href="https://devmohameda1i.github.io/Quran-Reel-Generator/"><img src="https://img.shields.io/badge/Live-0F766E?style=flat-square" alt="Live App" /></a>
+        <a href="https://devmohameda1i.github.io/Quran-Reel-Generator/"><img src="https://img.shields.io/badge/Live-0c1420?style=flat-square" alt="Live App" /></a>
         <a href="https://github.com/devMohamedA1i/Quran-Reel-Generator"><img src="https://img.shields.io/badge/Code-0c1420?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
       </td>
     </tr>
@@ -60,7 +60,7 @@
       <td><b>Restaurant Web App</b></td>
       <td>Responsive fine-dining restaurant web experience built with React.</td>
       <td align="center">
-        <a href="https://react-restaurant-project.vercel.app/"><img src="https://img.shields.io/badge/Live-0F766E?style=flat-square" alt="Live Demo" /></a>
+        <a href="https://react-restaurant-project.vercel.app/"><img src="https://img.shields.io/badge/Live-0c1420?style=flat-square" alt="Live Demo" /></a>
         <a href="https://github.com/devMohamedA1i/React-Restaurant-Project"><img src="https://img.shields.io/badge/Code-0c1420?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
       </td>
     </tr>
