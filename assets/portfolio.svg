@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="146" height="28" role="img" aria-label="Portfolio: devma.uk">
-  <clipPath id="r"><rect width="146" height="28" rx="7" ry="7"/></clipPath>
+  <defs>
+    <clipPath id="r"><rect width="146" height="28" rx="7" ry="7"/></clipPath>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#28457D"/>
+      <stop offset="100%" stop-color="#1E3561"/>
+    </linearGradient>
+  </defs>
   <g clip-path="url(#r)">
     <rect width="70" height="28" fill="#162749"/>
-    <rect x="70" width="76" height="28" fill="#213968"/>
+    <rect x="70" width="76" height="28" fill="url(#g)"/>
   </g>
   <text x="35.0" y="18.0" fill="#e2e8f0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" text-anchor="middle">Portfolio</text>
   <text x="108.0" y="18.0" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" text-anchor="middle">devma.uk</text>
