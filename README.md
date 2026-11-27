@@ -71,6 +71,6 @@
 
 ### Certifications
 
-33 verified certificates & specializations — **IBM Generative AI Engineering**, **Full-Stack Web Development**, **AWS Containerized Applications**, **IBM SQL & Django**, **Google Python**, **Software Security**, and **iOS Swift**.
+**IBM Generative AI Engineering**, **Full-Stack Web Development**, **AWS Containerized Applications**, **IBM SQL & Django**, **Google Python**, **Software Security**, and **iOS Swift**.
 
-<a href="https://github.com/devMohamedA1i/Certificates"><img src="assets/certificates.svg" alt="View All 33 Certificates" /></a>
+<a href="https://github.com/devMohamedA1i/Certificates"><img src="assets/certificates.svg" alt="View All Certificates" /></a>
