@@ -22,9 +22,9 @@
 <table>
   <thead>
     <tr>
-      <th width="25%" align="left">Project</th>
-      <th width="53%" align="left">Summary</th>
-      <th width="22%" align="center">Links</th>
+      <th width="24%" align="left">Project</th>
+      <th width="62%" align="left">Summary</th>
+      <th width="14%" align="center">Links</th>
     </tr>
   </thead>
   <tbody>
@@ -39,7 +39,7 @@
       <td><b>Quran Reel Generator</b></td>
       <td>Open-source, 100% local desktop (macOS &amp; Windows) and mobile PWA for generating synchronized 9:16 Quran reels in English &amp; Arabic.</td>
       <td align="center">
-        <a href="https://devmohameda1i.github.io/Quran-Reel-Generator/"><img src="assets/live.svg" alt="Live App" /></a>
+        <a href="https://devmohameda1i.github.io/Quran-Reel-Generator/"><img src="assets/live.svg" alt="Live App" /></a><br/>
         <a href="https://github.com/devMohamedA1i/Quran-Reel-Generator"><img src="assets/code.svg" alt="Code" /></a>
       </td>
     </tr>
@@ -68,7 +68,7 @@
       <td><b>Restaurant Web App</b></td>
       <td>Responsive fine-dining restaurant web experience built with React.</td>
       <td align="center">
-        <a href="https://react-restaurant-project.vercel.app/"><img src="assets/live.svg" alt="Live Demo" /></a>
+        <a href="https://react-restaurant-project.vercel.app/"><img src="assets/live.svg" alt="Live Demo" /></a><br/>
         <a href="https://github.com/devMohamedA1i/React-Restaurant-Project"><img src="assets/code.svg" alt="Code" /></a>
       </td>
     </tr>
